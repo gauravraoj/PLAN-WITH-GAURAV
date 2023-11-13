@@ -1,3 +1,11 @@
+# Plan with Gaurav is a React project
+![Screenshot (59)](https://github.com/gauravraoj/PLAN-WITH-GAURAV/assets/96016132/7c6c4a8d-6364-4546-a069-5e8babd81964)
+![Screenshot (60)](https://github.com/gauravraoj/PLAN-WITH-GAURAV/assets/96016132/bad17163-528b-462f-bcd1-5bdae1023de6)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
